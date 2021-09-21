@@ -16,5 +16,5 @@ simple all data entries will be done by the account office.
 entries first. In the Paid column there should be a provision for changing unpaid entry to paid
 entry, in case it is paid later.
 
-[Screen Shot of TADA Entry](https://drive.google.com/file/d/1x_xTy0_tgms4SPnNngZPENr3a3yKrqUM/view?usp=sharing)<br>
-[[Screen Shot of TADA History]](https://drive.google.com/file/d/1CayvoNjCAM9nLGn3r-35KcpPFKlyNzc4/view?usp=sharing)
+[ScreenShot of TADA Entry](https://drive.google.com/file/d/1x_xTy0_tgms4SPnNngZPENr3a3yKrqUM/view?usp=sharing)<br>
+[[ScreenShot of TADA History]](https://drive.google.com/file/d/1CayvoNjCAM9nLGn3r-35KcpPFKlyNzc4/view?usp=sharing)
