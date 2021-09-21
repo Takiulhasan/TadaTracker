@@ -16,4 +16,4 @@ simple all data entries will be done by the account office.
 entry, in case it is paid later.
 
 [ScreenShot of TADA Entry](https://user-images.githubusercontent.com/23117206/134098252-565c3f46-f75e-4bc4-be93-df5f32333993.JPG)<br>
-[[ScreenShot of TADA History]](https://drive.google.com/file/d/1CayvoNjCAM9nLGn3r-35KcpPFKlyNzc4/view?usp=sharing)
+[[ScreenShot of TADA History]](https://user-images.githubusercontent.com/23117206/134098202-084b8cff-1703-4b5c-a4f6-73c14c726790.JPG)
