@@ -12,8 +12,7 @@ simple all data entries will be done by the account office.
   c. Expenses </br>
   d. Also if the TA/DA is already paid or not.</br>
 
-2. TA/DA history page, this page shows the previous TA/DA entries sorted by date and unpaid
-entries first. In the Paid column there should be a provision for changing unpaid entry to paid
+2. TA/DA history page, this page shows the previous TA/DA entries sorted by date first. In the Paid column there should be a provision for changing unpaid entry to paid
 entry, in case it is paid later.
 
 [ScreenShot of TADA Entry](https://drive.google.com/file/d/1x_xTy0_tgms4SPnNngZPENr3a3yKrqUM/view?usp=sharing)<br>
