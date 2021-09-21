@@ -15,5 +15,13 @@ simple all data entries will be done by the account office.
 2. TA/DA history page, this page shows the previous TA/DA entries sorted by date first. In the Paid column there should be a provision for changing unpaid entry to paid
 entry, in case it is paid later.
 
-[ScreenShot of TADA Entry](https://user-images.githubusercontent.com/23117206/134098252-565c3f46-f75e-4bc4-be93-df5f32333993.JPG)<br>
-[[ScreenShot of TADA History]](https://user-images.githubusercontent.com/23117206/134098202-084b8cff-1703-4b5c-a4f6-73c14c726790.JPG)
+<b>=======================================  1 ==============================================</b>
+</br>
+![1st Capture](https://user-images.githubusercontent.com/23117206/134098676-ffbc1361-a5a4-4309-92cf-e31b37430a40.JPG)
+
+</br>
+<b>======================================= 2 ==============================================</b>
+
+![2nd capture](https://user-images.githubusercontent.com/23117206/134098690-061005cb-c6b4-4fc3-8747-fa8453b1964d.JPG)
+
+</br>
