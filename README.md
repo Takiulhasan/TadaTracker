@@ -1,7 +1,13 @@
 # TadaTracker
 It's a basic TADA app,where HR keep track of their work
-# TadaTracker
-It's a basic TADA app,where HR keep track of their work
+
+# System Requirements
+1.Windows 10 </br>
+2.Visual Studio 2019 Community </br>
+3.MS SQL server 2019</br>
+4.Microsoft Sql Server Management Studio</br>
+P.S: Try to clone using VS19
+# TA/DA_APP details
 
 It's a simple web app that would have only two pages. And to keep things
 simple all data entries will be done by the account office.
